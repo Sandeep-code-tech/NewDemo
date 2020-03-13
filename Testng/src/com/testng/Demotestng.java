@@ -8,7 +8,7 @@ public class Demotestng {
 	@Test
 	public void print()
 	{
-		System.out.println("hello world");
+		System.out.println("hello worldghfhcgfu,hkjllioiou;.jhiojl");
 		}
 	
 	@Test
